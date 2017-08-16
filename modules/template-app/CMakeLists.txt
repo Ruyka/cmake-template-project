@@ -1,0 +1,1 @@
+#define_module(PROJECT annotation-tool LIBS ${OpenCV_LIBS} boost_system boost_filesystem boost_program_options)
